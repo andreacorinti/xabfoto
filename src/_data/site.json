@@ -1,16 +1,16 @@
 {   
     "author": {
-        "firstName": "John",
-        "lastName": "Smith",
-        "email": "foobar@gmail.com",
-        "twitterHandle": "tannerdolby",
-        "about": "Freelance photographer interested in film and cinematography"
+        "firstName": "Andrea",
+        "lastName": "Corinti",
+        "email": "corinti@gmx.com",
+        "twitterHandle": "/",
+        "about": "Photos by Andrea 'Xab' Corinti"
     },
     "socials": {
-        "twitter": "https://twitter.com/tannerdolby",
-        "linkedin": "https://linkedin.com/in/tanner-dolby",
-        "dribbble": "https://dribbble.com/tannerdolby",
-        "github": "https://github.com/tannerdolby"
+        "twitter": "",
+        "linkedin": "",
+        "dribbble": "",
+        "github": "https://github.com/andreacorinti"
     },
     "pageMetadata": {
         "home": {
