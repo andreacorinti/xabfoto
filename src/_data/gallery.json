@@ -1,5 +1,13 @@
 [
     {
+        "title": "Tomb of Clytemnestra",
+        "date": "June 11, 2023",
+        "credit": "The tomb of Clytemnestra, Agamemnon's wife, in Mycenae",
+        "src": "Tomba-Micene.jpg",
+        "alt": "The tomb of Clytemnestra, Agamemnon's wife, in Mycenae",
+        "imgDir": "/images/"
+    },
+    {
         "title": "Vouliagmeni Lake",
         "date": "June 6, 2023",
         "credit": "The splendid Vouliagmeni Lake, east of Athens",
@@ -14,5 +22,29 @@
         "src": "Maddalena.jpg",
         "alt": "the marble sculpture of Mary Magdalene by Antonio Canova in Genoa",
         "imgDir": "/images/"
-    } 
+    },
+    {
+        "title": "Arco della Vittoria - Genova",
+        "date": "August 14, 2022",
+        "credit": "Piazza della Vittoria in Genoa",
+        "src": "arco-genova.jpg",
+        "alt": "Piazza della Vittoria in Genoa",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Meteora",
+        "date": "January 8, 2020",
+        "credit": "View of Meteora, central Greece",
+        "src": "meteora.jpg",
+        "alt": "View of Meteora, central Greece",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "The Caryatid porch",
+        "date": "November 1, 2020",
+        "credit": "The Caryatid porch, Athens",
+        "src": "cariatidi.jpg",
+        "alt": "The Caryatid porch",
+        "imgDir": "/images/"
+    }     
 ]
