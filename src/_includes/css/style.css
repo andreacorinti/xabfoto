@@ -77,13 +77,13 @@ header .intro .hire-me {
   height: fit-content;
   height: -moz-fit-content;
   border-radius: 3px;
-  background: #3d3e79;
-  color: #fff;
+  background: rgb(218, 216, 216);
+  color: black;
   font-weight: 400;
   white-space: nowrap;
 }
 header .intro .hire-me:hover {
-  background: #8c8dff;
+  background: white;
 }
 
 .main-gallery {
@@ -327,7 +327,6 @@ footer a:hover {
   justify-content: space-between;
   align-items: center;
   padding-top: 1.4rem;
-  border-top: 0.1rem solid lightgray;
 }
 .footer-info .footer-links {
   padding-left: 0;

@@ -1,0 +1,11 @@
+<header class="top-nav">
+<nav class="nav-main">
+        <ul class="nav-list">
+            {% for link in navigation %}
+            <li><a href="{{ link.url | url }}" class="link">{{ link.title }}</a></li>
+            {% endfor %}
+            <li><a class="link" href="https://livellosegreto.it/@xabacadabra">Mastodon</a></li>
+            <li><a class="link" href="https://www.andreacorinti.com/contact/">Contact</a></li>
+        </ul>
+</nav>
+</header>

@@ -1,21 +1,14 @@
 ---
-eleventyNavigation:
-  key: Home
-  order: 0
-heading: Xab's Photos
-description: some pictures made by Andrea Corinti
+title: Xab's Gallery
 layout: main.njk
-title: Xab's Photos
-meta_desc: Andrea Corinti personal photo gallery.
-url: https://xabfoto.netlify.app
-img: /images/cariatidi.jpg
-alt: Terrace outside shop window with green plants and pink tree on night street
+permalink: "/"
+meta_desc: Andrea Corinti's gallery.
+url: https://xabfoto.netlify.app/gallery
+img: /images/Maddalena.jpg
+alt: Maddalena Penitente del Canova, Genova
 cardType: summary_large_image
 ---
-<div class="page-banner">
-    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
-</div>
-</div>
 
+<h1 class="ft-h1">{{ title }}</h1>
 
-{% include "partials/home-gallery.njk" %}
+{% include "partials/feature-gallery.njk" %}
