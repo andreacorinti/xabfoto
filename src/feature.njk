@@ -55,6 +55,7 @@ cardType: summary_large_image
                     <div class="image-description">
                         <h1 class="h2">{{ image.title }}</h1>
                         <p>{{ image.credit }}</p>
+                        <a href="../images/{{ image.src }}">Higher resolution</a>
                     </div>
                     <div class="prev-next">
                         {% if pagination.href.previous %}

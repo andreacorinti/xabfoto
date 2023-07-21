@@ -1,11 +1,18 @@
 [
     {
         "title": "Vouliagmeni Lake",
-        "date": "June 8, 2023",
+        "date": "June 6, 2023",
         "credit": "The splendid Vouliagmeni Lake, east of Athens",
-        "linkToAuthor": "https://www.pexels.com/photo/terrace-with-green-plants-on-night-street-3100835/",
         "src": "vouliagmeni-lake.jpg",
         "alt": "The splendid Vouliagmeni Lake, east of Athens",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Maddalena Penitente del Canova",
+        "date": "November 11, 2022",
+        "credit": "the marble sculpture of Mary Magdalene by Antonio Canova in Genoa",
+        "src": "Maddalena.jpg",
+        "alt": "the marble sculpture of Mary Magdalene by Antonio Canova in Genoa",
         "imgDir": "/images/"
     } 
 ]
