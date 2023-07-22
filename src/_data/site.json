@@ -14,13 +14,13 @@
     },
     "pageMetadata": {
         "home": {
-            "content": "Andrea Corinti's photogallery, mostly focused on art and history of Italy and Greece."
+            "content": "Andrea Corinti's photogallery, mostly focused on art and history of Italy, Greece and other places."
         },
         "gallery": {
-            "content": "A collection of photos from Andrea Corinti's gallery."
+            "content": "Andrea Corinti's photogallery, mostly focused on art and history of Italy, Greece and other places."
         },
         "featured": {
-            "content": "from John Smith's gallery."
+            "content": "from Andrea Corinti's gallery."
         },
         "about": {
             "content": "Andrea Corinti website."
