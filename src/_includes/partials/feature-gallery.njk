@@ -3,7 +3,7 @@
         {% for image in gallery %}
         <li class="gallery-item">
             <div class="image-block">
-                <a href="{{ image.title | slug }}" aria-label="Gallery image {{ image.title }}">
+                <a href="/gallery/{{ image.title | slug }}" aria-label="Gallery image {{ image.title }}">
                 {% respimg
                     inputDir="./src",
                     imgDir=image.imgDir,
