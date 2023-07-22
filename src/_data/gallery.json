@@ -8,14 +8,6 @@
         "imgDir": "/images/"
     },
     {
-        "title": "Vouliagmeni Lake",
-        "date": "June 6, 2023",
-        "credit": "The splendid Vouliagmeni Lake, east of Athens",
-        "src": "vouliagmeni-lake.jpg",
-        "alt": "The splendid Vouliagmeni Lake, east of Athens",
-        "imgDir": "/images/"
-    },
-    {
         "title": "Maddalena Penitente del Canova",
         "date": "November 11, 2022",
         "credit": "the marble sculpture of Mary Magdalene by Antonio Canova in Genoa",
@@ -29,6 +21,14 @@
         "credit": "Piazza della Vittoria in Genoa",
         "src": "arco-genova.jpg",
         "alt": "Piazza della Vittoria in Genoa",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Aliki, Paros",
+        "date": "July 22, 2021",
+        "credit": "The gorgeous village of Aliki in Paros Island",
+        "src": "aliki.jpg",
+        "alt": "The gorgeous village of Aliki in Paros Island",
         "imgDir": "/images/"
     },
     {
