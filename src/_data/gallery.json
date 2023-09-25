@@ -1,5 +1,13 @@
 [
     {
+        "title": "Firenze",
+        "date": "September 23, 2023",
+        "credit": "Firenze, Piazzale Michelangelo Panorama",
+        "src": "firenze.jpg",
+        "alt": "Firenze",
+        "imgDir": "/images/"
+    },
+    {
         "title": "Tomb of Clytemnestra",
         "date": "June 11, 2023",
         "credit": "The tomb of Clytemnestra, Agamemnon's wife, in Mycenae",
@@ -45,14 +53,6 @@
         "credit": "The Caryatid porch, Athens",
         "src": "cariatidi.jpg",
         "alt": "The Caryatid porch",
-        "imgDir": "/images/"
-    },
-    {
-        "title": "Firenze",
-        "date": "September 23, 2023",
-        "credit": "Firenze, Piazzale Michelangelo Panorama",
-        "src": "cariatidi.jpg",
-        "alt": "Firenze",
         "imgDir": "/images/"
     }                 
 ]
