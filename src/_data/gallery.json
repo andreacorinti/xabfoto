@@ -46,5 +46,13 @@
         "src": "cariatidi.jpg",
         "alt": "The Caryatid porch",
         "imgDir": "/images/"
-    }     
+    },
+    {
+        "title": "Firenze",
+        "date": "September 23, 2023",
+        "credit": "Firenze, Piazzale Michelangelo Panorama",
+        "src": "cariatidi.jpg",
+        "alt": "Firenze",
+        "imgDir": "/images/"
+    }                 
 ]
